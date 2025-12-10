@@ -52,3 +52,5 @@ document.addEventListener("DOMContentLoaded", () => {
   });
   
 });
+
+//arreglo de imágenes
