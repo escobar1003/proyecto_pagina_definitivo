@@ -23,6 +23,8 @@ ventanaRegistro.querySelector('form').addEventListener('submit', (e) => {
   ventanaRegistro.style.display = 'none';
 });
 
+// Lightbox functionality
+
 document.addEventListener("DOMContentLoaded", () => {
   // Lightbox
   const lightbox = document.getElementById("lightbox");
