@@ -10,6 +10,7 @@ fotoPerfil.addEventListener('click', () => {
   submenuPerfil.style.display = submenuPerfil.style.display === 'block' ? 'none' : 'block';
 });
 
+
 // Mostrar ventana de registro al hacer click en el botón
 btnRegistro.addEventListener('click', () => {
   ventanaRegistro.style.display = 'block';
